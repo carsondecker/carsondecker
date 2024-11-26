@@ -1,4 +1,4 @@
-I'm Carson Decker, a computer science student with a passion for programming and learning about it.
+I'm Carson Decker, a computer science student with a passion for programming and learning.
 
 I primarily code in:
 - Python
