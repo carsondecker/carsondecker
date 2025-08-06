@@ -1,10 +1,11 @@
 I'm Carson Decker, a computer science student with a passion for programming and learning.
 
 ### I primarily code in:
+- Go
+- C#
 - Python
 - Java
 - Javascript
-- Go
 
 ### Featured Projects:
 - [Job Board API](https://github.com/carsondecker/JobFinder) - A job board REST API written in Go with a PostgreSQL database. It has user authentication with JWT and documentation for using the API.
